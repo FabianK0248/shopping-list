@@ -9,3 +9,4 @@ brokkoli
 mango
 kartoffel
 bratl
+rotwein
